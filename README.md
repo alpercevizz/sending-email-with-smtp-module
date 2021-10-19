@@ -1,4 +1,4 @@
-# How To Send Email With SMTP Modules In Python
+# How To Send Email With SMTP Modules In Python - Python'da SMTP Modülü ile Nasıl Email Gönderilir ?
 
 ## Built with 
 
@@ -6,11 +6,18 @@
 
 - SMTPLib Library and SMTP Module
 
-Codes are working only in console. 
+
+Note: Codes are working only in console. 
 <hr>
 
-##Console screen view
+### For Download
+
+You can clone my project.
+
+###Console screen view
 
 <img src="ConsolePhoto.png">
+
+Bu proje Python'da SMTPLib kütüphanesi ve SMTP modülü kullanılarak geliştirilmiştir. Kodlar sadece console'da çalışmaktadır. 
 
 
