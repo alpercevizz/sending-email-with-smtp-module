@@ -2,8 +2,9 @@
 
 ## Built with 
 
--> Python
--> SMTPLib Library and SMTP Module
+- Python
+
+- SMTPLib Library and SMTP Module
 
 Codes are working only in console. 
 <hr>
