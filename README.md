@@ -18,6 +18,6 @@ You can clone my project.
 
 <img src="ConsolePhoto.png">
 
-Bu proje Python'da SMTPLib kütüphanesi ve SMTP modülü kullanılarak geliştirilmiştir. Kodlar sadece console'da çalışmaktadır. 
+This project was developed in Python using the SMTPLib library and the SMTP module. The code runs exclusively in the console.
 
 
